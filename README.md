@@ -100,7 +100,13 @@ State transitions are driven by the clock pulses from the 555 Timer.
 * Optional simulation in tools like **Logisim** for verification
 
 <p align="center">
-  <img src="images/final_output.png" alt="Breadboard Setup" width="600"/>
+  <img src="images/breadboard_setup.png" alt="Breadboard Setup" width="600"/>
+  <br/>
+  <em>Photo: Real-life hardware setup (optional)</em>
+</p>
+
+<p align="center">
+  <img src="images/final_output.png" alt="Final output Setup" width="600"/>
   <br/>
   <em>Photo: Real-life hardware setup (optional)</em>
 </p>
