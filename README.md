@@ -59,7 +59,7 @@ State transitions are driven by the clock pulses from the 555 Timer.
 ## ⏲ Clock Generation Circuit (555 Timer)
 
 <p align="center">
-  <img src="images/555_timer_circuit.png" alt="555 Timer Circuit" width="500"/>
+  <img src="images/timer_ckt.png" alt="555 Timer Circuit" width="500"/>
   <br/>
   <em>555 Timer Circuit generating square wave as clock input</em>
 </p>
@@ -73,7 +73,7 @@ State transitions are driven by the clock pulses from the 555 Timer.
 ## 🔌 Circuit Implementation
 
 <p align="center">
-  <img src="images/circuit_diagram.png" alt="Complete Circuit Diagram" width="600"/>
+  <img src="images/ckt_diagram.png" alt="Complete Circuit Diagram" width="600"/>
   <br/>
   <em>Full schematic including FSM logic, 555 timer, and LED outputs</em>
 </p>
@@ -89,7 +89,7 @@ State transitions are driven by the clock pulses from the 555 Timer.
 * Optional simulation in tools like **Logisim** for verification
 
 <p align="center">
-  <img src="images/hardware_setup.jpg" alt="Breadboard Setup" width="600"/>
+  <img src="images/final_output.jpg" alt="Breadboard Setup" width="600"/>
   <br/>
   <em>Photo: Real-life hardware setup (optional)</em>
 </p>
