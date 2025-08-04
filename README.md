@@ -49,7 +49,7 @@ This project implements a **two-way traffic light system** using a **Finite Stat
 State transitions are driven by the clock pulses from the 555 Timer.
 
 <p align="center">
-  <img src="images/state_transition_table.png" alt="State Table" width="500"/>
+  <img src="images/state_table.png" alt="State Table" width="500"/>
   <br/>
   <em>State Transition Table (based on current state)</em>
 </p>
@@ -82,6 +82,17 @@ State transitions are driven by the clock pulses from the 555 Timer.
 
 ---
 
+<p align="center">
+  <img src="images/fsm_schematic.png" alt="Schematic Diagram" width="600"/>
+  <br/>
+  <em>Full schematic including FSM logic, 555 timer, and LED outputs</em>
+</p>
+
+> Full circuit files are available in the `/circuit_files/` directory.
+
+---
+
+
 ## 🧪 Simulation & Testing
 
 * Built and tested on **breadboard**
@@ -89,7 +100,7 @@ State transitions are driven by the clock pulses from the 555 Timer.
 * Optional simulation in tools like **Logisim** for verification
 
 <p align="center">
-  <img src="images/final_output.jpg" alt="Breadboard Setup" width="600"/>
+  <img src="images/final_output.png" alt="Breadboard Setup" width="600"/>
   <br/>
   <em>Photo: Real-life hardware setup (optional)</em>
 </p>
@@ -114,16 +125,7 @@ State transitions are driven by the clock pulses from the 555 Timer.
 
 ---
 
-## 📁 File Structure
 
-```
-/images/                 ← Diagrams, breadboard photos
-/circuit_files/          ← FSM logic, 555 timer schematics
-/docs/                   ← State table, truth tables
-README.md                ← Project description
-```
-
----
 
 ## 📜 License
 
