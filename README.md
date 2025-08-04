@@ -28,7 +28,7 @@ This project implements a **two-way traffic light system** using a **Finite Stat
 | ------------------------ | ----------------------------------------- |
 | **555 Timer IC**         | Generates the clock signal for FSM        |
 | **D Flip-Flops**         | Stores current FSM state                  |
-| **Logic Gates**          | AND, OR, NOT, NAND, XOR for state logic   |
+| **Logic Gates**          | AND, OR, NOT, for state logic   |
 | **LEDs**                 | Represents Red, Yellow, and Green signals |
 | **Resistors/Capacitors** | For timing and LED current limiting       |
 | **Breadboard / PCB**     | For physical circuit implementation       |
